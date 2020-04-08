@@ -1,13 +1,37 @@
-#logo{
-	width: 50px;
+.contenido{
+	background-color: #f2ed6f;
+	font-family: 'Roboto', sans-serif;
+}
+h1{
+	text-align: center;
+}
+#imagenesFoot{
+	text-align: center;
+}
+#foot{
+	margin: 10px;	
+}
+table{
+    width: 90%;
+    height: 70%;
+    text-align: center;
+    margin: 20px;
+}
+ table, th, td {
+    border: 5px solid #ff7f50;
+    border-collapse: collapse;    
+}
+th, td{
+    padding: 4px;
+}
+.card-body img{
+	width: 100%
+}
+.container-fluid img{
+	height: 350px;
 }
 
-nav{
-	font-family: 'Comfortaa', cursive;
-    background-color: #E10098;
-    position: fixed;
+.container-fluid p{
+	height: 200px;
 }
 
-.bolsas img{
-	width: 100;
-}
